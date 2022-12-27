@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T11:53:15.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.818 Yowser/2.5 Safari/537.36" etag="RWAuNd4ov8qwWYxR1rif" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T19:32:33.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.5.715 Yowser/2.5 Safari/537.36" etag="3cvBLgky9m7tMhdM0cO1" version="20.7.4" type="github">
   <diagram id="IKxiyN_XWuxEhGhjyTU6" name="Страница 1">
-    <mxGraphModel dx="1117" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SQR-gg03ncgTsfnTzXYK-5" value="Подготовка с педагогом,&amp;nbsp;&lt;br&gt;&amp;nbsp;самостоятельная подготовка&lt;br&gt;&amp;nbsp;по&amp;nbsp;конспектам, онлайн урокам и т. д." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="SQR-gg03ncgTsfnTzXYK-1">
+        <mxCell id="SQR-gg03ncgTsfnTzXYK-5" value="Подготовка с педагогом,&amp;nbsp;&lt;br&gt;&amp;nbsp;самостоятельная подготовка&lt;br&gt;&amp;nbsp;по&amp;nbsp;конспектам, онлайн урокам и т. д." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SQR-gg03ncgTsfnTzXYK-1" edge="1">
           <mxGeometry x="0.0911" y="-10" relative="1" as="geometry">
             <mxPoint x="330" y="440" as="sourcePoint" />
             <mxPoint x="290" y="629.41" as="targetPoint" />
@@ -36,6 +36,16 @@
             <Array as="points">
               <mxPoint x="505" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhMuGJ-ZgvIufhdW4cUZ-1" value="Сдача экзамена" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="629.5" as="targetPoint" />
+            <mxPoint x="140" y="630" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="215" y="630" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
